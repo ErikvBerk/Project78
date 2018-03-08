@@ -38,8 +38,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="knowledge\Entry.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="vision\Entry.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
